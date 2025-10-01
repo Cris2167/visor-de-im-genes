@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Practica 3 (visor de imagenes)/1.0.0": {
+        "runtime": {
+          "Practica 3 (visor de imagenes).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Practica 3 (visor de imagenes)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

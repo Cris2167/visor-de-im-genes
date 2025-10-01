@@ -1,0 +1,85 @@
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).exe
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).deps.json
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).runtimeconfig.json
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Form1.resources
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Properties.Resources.resources
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.GenerateResource.cache
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).GeneratedMSBuildEditorConfig.editorconfig
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfoInputs.cache
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfo.cs
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.CoreCompileInputs.cache
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\refint\Practica 3 (visor de imagenes).dll
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).genruntimeconfig.cache
+L:\Documents\Visual Studio\Programacion Visual I\Practica 3 (visor de imagenes)\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\ref\Practica 3 (visor de imagenes).dll
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).exe
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).deps.json
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).runtimeconfig.json
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Form1.resources
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Properties.Resources.resources
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.GenerateResource.cache
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfoInputs.cache
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfo.cs
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.CoreCompileInputs.cache
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\refint\Practica 3 (visor de imagenes).dll
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).genruntimeconfig.cache
+C:\Users\oscar\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\ref\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).exe
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).deps.json
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).runtimeconfig.json
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Form1.resources
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Properties.Resources.resources
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.GenerateResource.cache
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfoInputs.cache
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfo.cs
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.CoreCompileInputs.cache
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\refint\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).genruntimeconfig.cache
+C:\Users\LEGION\Desktop\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\ref\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).exe
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).deps.json
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).runtimeconfig.json
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Form1.resources
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Properties.Resources.resources
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.GenerateResource.cache
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfoInputs.cache
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfo.cs
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.CoreCompileInputs.cache
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\refint\Practica 3 (visor de imagenes).dll
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).genruntimeconfig.cache
+C:\Users\LEGION\source\repos\Visor de imagenes\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\ref\Practica 3 (visor de imagenes).dll
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Form1.resources
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica_3__visor_de_imagenes_.Properties.Resources.resources
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.GenerateResource.cache
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfoInputs.cache
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).AssemblyInfo.cs
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).csproj.CoreCompileInputs.cache
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\refint\Practica 3 (visor de imagenes).dll
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).exe
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).deps.json
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).runtimeconfig.json
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).dll
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\bin\Debug\net8.0-windows\Practica 3 (visor de imagenes).pdb
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\Practica 3 (visor de imagenes).genruntimeconfig.cache
+C:\Users\Hp Omen\Desktop\Practica 3 (visor de imagenes)\obj\Debug\net8.0-windows\ref\Practica 3 (visor de imagenes).dll
